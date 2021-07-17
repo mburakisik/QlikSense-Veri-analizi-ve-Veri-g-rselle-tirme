@@ -1,2 +1,2 @@
-# QlikSense-Veri-analizi-ve-Veri-gorselle-tirme
+# QlikSense-Veri-analizi-ve-Veri-gorsellestirme
 Bi Technology Qlik Stars Programı
